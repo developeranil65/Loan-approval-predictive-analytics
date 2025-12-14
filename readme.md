@@ -157,7 +157,7 @@ The **Decision Tree Classifier** outperformed all other models with ~97% accurac
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/developeranil65/Loan-approval-predictive-analytics.git
 cd loan-approval-prediction
 ```
 
@@ -172,3 +172,4 @@ python loan_approval_project.py
 ```
 
 ### 4. View the generated CSV `loan_approval_predictions_all_models.csv` for the final predictions
+
